@@ -1,4 +1,9 @@
+
+![New Tech Futuristic Purple and Yellow Youtube Thumbnail](https://github.com/RishabhParihar873/TicTacToe_Game/assets/112072004/f28a6691-7d8c-4bbf-be70-b92a86f932b0)
+
 # Tic Tac Toe Game in Java
+
+Check out the [live demo on YouTube](https://youtu.be/_8LSbPDzoSI) for a walkthrough of the application.
 
 ## Overview:
 
@@ -35,11 +40,6 @@ Welcome to this simple yet engaging Tic Tac Toe game implemented in Java! This p
 
 Feel free to contribute to the development of this Tic Tac Toe game. Whether it's fixing bugs, adding new features, or improving the code, your contributions are welcome. Just fork the repository, make your changes, and submit a pull request.
 
-## License:
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments:
 
 A big thank you to anyone who contributes to the project and helps make it better!
 
